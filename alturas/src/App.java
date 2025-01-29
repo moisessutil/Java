@@ -12,6 +12,7 @@ public class App {
         String[] nomes = new String[n];
         int[] idades = new int[n];
         double[] alturas = new double[n];
+        
 
         for (int i=0; i<n; i++) {
             System.out.println("Dados da " + (i+1) + "a pessoa:");
